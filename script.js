@@ -97,7 +97,7 @@ bookmarks.forEach((bookmark, index) => {
 
   tile.addEventListener("click", () => {
 	//window.open("https://sinalpublico.com/player3/ch.php?canal="+bookmark.url, "_blank");
-	window.location.replace("https://sinalpublico.com/player3/ch.php?canal="+bookmark.url);
+	window.location.href="https://sinalpublico.com/player3/ch.php?canal="+bookmark.url;
   });
 
   tile.addEventListener("keydown", event => {
