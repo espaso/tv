@@ -96,7 +96,8 @@ bookmarks.forEach((bookmark, index) => {
   tile.innerHTML = "<img src='https://link.encrypted-encrypted-encrypted-encrypted-encrypted-encrypted.link/player3/imgs-videos/Canais/" + bookmark.url + ".jpg'>";
 
   tile.addEventListener("click", () => {
-    window.open("https://sinalpublico.com/player3/ch.php?canal="+bookmark.url, "_blank");
+	//window.open("https://sinalpublico.com/player3/ch.php?canal="+bookmark.url, "_blank");
+	window.location.replace("https://sinalpublico.com/player3/ch.php?canal="+bookmark.url);
   });
 
   tile.addEventListener("keydown", event => {
