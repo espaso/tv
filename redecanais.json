@@ -1,0 +1,91 @@
+{
+    "type": "pages",
+    "headline": "Live API Test (Extended Playback & Resume)",
+    "overlay": {
+        "items": [{
+                "id": "info",
+                "type": "space",
+                "layout": "0,4,12,2",
+                "headline": "",
+                "text": ""
+            }]
+    },
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,4",
+        "area": "0,0,12,4",
+        "icon": "msx-white-soft:movie",
+        "color": "msx-glass",
+        "badge": "",
+        "titleFooter": "",
+        "progress": -1,
+        "live": {
+            "type": "playback",
+            "coming": {
+                "badge": "Resumable",
+                "badgeColor": "msx-blue",
+                "complete": {
+                    "badge": "Completed",
+                    "badgeColor": "msx-red"
+                }
+            },
+            "running": {
+                "badge": "Running",
+                "badgeColor": "msx-yellow",
+                "titleFooter": "{progress:time:hh:mm:ss}"
+            },
+            "action": "player:show"
+        },
+        "selection": {
+            "action": "update:content:overlay:info",
+            "data": {
+                "headline": "{context:title}",
+                "live": {
+                    "type": "playback",
+                    "source": "resume:key:{context:resumeKey}",
+                    "over": {
+                        "text": "Not started yet"
+                    },
+                    "coming": {
+                        "text": "Remaining: {countdown:text:hms} ({countdown:percentage})",
+                        "complete": {
+                            "text": "Completed"
+                        }
+                    }
+                }
+            }
+        },
+        "properties": {
+            "resume:key": "{context:resumeKey}",
+            "resume:context": "live_test"
+        }
+    },
+    "items": [{
+            "resumeKey": "video1",
+            "title": "Video 1",
+            "action": "video:https://sinalpublico.com/player3/ch.php?canal=cartoon"
+        }, {
+            "resumeKey": "video2",
+            "title": "Video 2",
+            "action": "video:http://msx.benzac.de/media/video2.mp4"
+        }, {
+            "resumeKey": "video3",
+            "title": "Video 3",
+            "action": "video:http://msx.benzac.de/media/video3.mp4"
+        }, {
+            "enumerate": false,
+            "type": "button",
+            "offset": "0,0,0,-1",
+            "icon": "highlight-off",
+            "label": "Clear Keys",
+            "action": "resume:clear:context:live_test",     
+            "selection": {
+                "action": "update:content:overlay:info",
+                "data": {
+                    "headline": "",
+                    "text": "{ico:msx-blue:info} Clear resumable keys for all videos in this example",
+                    "live": {}
+                }
+            }
+        }]
+}
