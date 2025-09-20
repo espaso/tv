@@ -88,7 +88,7 @@ const bookmarks = [
 const tilesContainer = document.querySelector("#tiles");
 let selectedIndex = 0;
 const numTilesPerRow = 4;
-const caminho = "//%72%65%64%65%63%61%6E%61%69%73%74%76%2E%65%65";
+const caminho = "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%65%65";
 
 bookmarks.forEach((bookmark, index) => {
   const tile = document.createElement("div");
@@ -171,5 +171,6 @@ document.addEventListener("keydown", event => {
     }
   }
 });
+
 
 
