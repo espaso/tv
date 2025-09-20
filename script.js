@@ -88,7 +88,7 @@ const bookmarks = [
 const tilesContainer = document.querySelector("#tiles");
 let selectedIndex = 0;
 const numTilesPerRow = 4;
-const caminho = "https://redecanaistv.ee";
+const caminho = "//%72%65%64%65%63%61%6E%61%69%73%74%76%2E%65%65";
 
 bookmarks.forEach((bookmark, index) => {
   const tile = document.createElement("div");
@@ -119,7 +119,7 @@ bookmarks.forEach((bookmark, index) => {
     } else if (event.code === "ArrowLeft") {
       const newIndex = index;
       if (newIndex >= 0) {
-        tilesContainer.children[newIndex].focus();
+        tilesContainer.children[newIndex].focus(;
         selectedIndex = newIndex;
       }
     } else if (event.code === "ArrowRight") {
@@ -171,4 +171,5 @@ document.addEventListener("keydown", event => {
     }
   }
 });
+
 
