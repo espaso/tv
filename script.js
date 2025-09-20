@@ -119,7 +119,7 @@ bookmarks.forEach((bookmark, index) => {
     } else if (event.code === "ArrowLeft") {
       const newIndex = index;
       if (newIndex >= 0) {
-        tilesContainer.children[newIndex].focus(;
+        tilesContainer.children[newIndex].focus();
         selectedIndex = newIndex;
       }
     } else if (event.code === "ArrowRight") {
@@ -171,6 +171,7 @@ document.addEventListener("keydown", event => {
     }
   }
 });
+
 
 
 
