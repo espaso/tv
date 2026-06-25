@@ -237,8 +237,6 @@ http://main.kraps.pw:80/346091887/783902286/1140932.ts
 http://main.kraps.pw:80/346091887/783902286/1112402.ts
 #EXTINF:-1 tvg-id="Megapix HD" tvg-name="29 - Megapix" tvg-logo="http://canais.is/imgs/megapix-channel.png" group-title="Canais | Principais",29 - Megapix
 http://main.kraps.pw:80/346091887/783902286/1112403.ts
-#EXTINF:-1 tvg-id="" tvg-name="30 - RunTime Ação" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Canais | Principais",30 - RunTime Ação
-http://main.kraps.pw:80/346091887/783902286/1138674.ts
 #EXTINF:-1 tvg-id="Space HD" tvg-name="31 - Space" tvg-logo="http://canais.is/imgs/space-channel.png" group-title="Canais | Principais",31 - Space
 http://main.kraps.pw:80/346091887/783902286/1112405.ts
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="32 - Studio Universal" tvg-logo="http://canais.is/imgs/studiouniversal-channel.png" group-title="Canais | Principais",32 - Studio Universal
@@ -293,24 +291,6 @@ http://main.kraps.pw:80/346091887/783902286/1243.ts
 http://main.kraps.pw:80/346091887/783902286/541.ts
 #EXTINF:-1 tvg-id="" tvg-name="Al Jazeera English HD" tvg-logo="http://canais.is/imgs/aljazeera-channel.png" group-title="Canais | Noticias",Al Jazeera English HD
 http://main.kraps.pw:80/346091887/783902286/542.ts
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1280px-Amazon_Prime_Video_logo.svg.png" group-title="Canais | Amazon Prime Video",Amazon Prime 1
-http://main.kraps.pw:80/346091887/783902286/584415.ts
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 1 [ALT]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1280px-Amazon_Prime_Video_logo.svg.png" group-title="Canais | Amazon Prime Video",Amazon Prime 1 [ALT]
-http://main.kraps.pw:80/346091887/783902286/595032.ts
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1280px-Amazon_Prime_Video_logo.svg.png" group-title="Canais | Amazon Prime Video",Amazon Prime 2
-http://main.kraps.pw:80/346091887/783902286/584416.ts
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 2 [ALT]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1280px-Amazon_Prime_Video_logo.svg.png" group-title="Canais | Amazon Prime Video",Amazon Prime 2 [ALT]
-http://main.kraps.pw:80/346091887/783902286/1098176.ts
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1280px-Amazon_Prime_Video_logo.svg.png" group-title="Canais | Amazon Prime Video",Amazon Prime 3
-http://main.kraps.pw:80/346091887/783902286/584417.ts
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 3 [ALT]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1280px-Amazon_Prime_Video_logo.svg.png" group-title="Canais | Amazon Prime Video",Amazon Prime 3 [ALT]
-http://main.kraps.pw:80/346091887/783902286/1098177.ts
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1280px-Amazon_Prime_Video_logo.svg.png" group-title="Canais | Amazon Prime Video",Amazon Prime 4
-http://main.kraps.pw:80/346091887/783902286/584418.ts
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1280px-Amazon_Prime_Video_logo.svg.png" group-title="Canais | Amazon Prime Video",Amazon Prime 5
-http://main.kraps.pw:80/346091887/783902286/1098175.ts
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 6 HD (Eventos)" tvg-logo="http://yan.boatv.at/imgs/amazonprime-channel.png" group-title="Canais | Amazon Prime Video",Amazon Prime 6 HD (Eventos)
-http://main.kraps.pw:80/346091887/783902286/1141152.ts
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="http://canais.is/imgs/amc-channel.png" group-title="Canais | Filmes e Séries",AMC FHD
 http://main.kraps.pw:80/346091887/783902286/454.ts
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://canais.is/imgs/amc-channel.png" group-title="Canais | Filmes e Séries",AMC HD
@@ -767,8 +747,6 @@ http://main.kraps.pw:80/346091887/783902286/607.ts
 http://main.kraps.pw:80/346091887/783902286/606.ts
 #EXTINF:-1 tvg-id="" tvg-name="Malhação Fast HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM4ANces3Nzcf0J82xlx_Akb1KYy7XQ3RIFw&s" group-title="Canais | Variedades",Malhação Fast HD
 http://main.kraps.pw:80/346091887/783902286/613939.ts
-#EXTINF:-1 tvg-id="" tvg-name="Manchester MUTV" tvg-logo="https://m.media-amazon.com/images/I/61rrCc7UQAL.png" group-title="Canais | PPV Esportes",Manchester MUTV
-http://main.kraps.pw:80/346091887/783902286/638730.ts
 #EXTINF:-1 tvg-id="Megapix HD" tvg-name="Megapix FHD" tvg-logo="http://canais.is/imgs/megapix-channel.png" group-title="Canais | Filmes e Séries",Megapix FHD
 http://main.kraps.pw:80/346091887/783902286/992.ts
 #EXTINF:-1 tvg-id="Megapix HD" tvg-name="Megapix HD" tvg-logo="http://canais.is/imgs/megapix-channel.png" group-title="Canais | Filmes e Séries",Megapix HD
@@ -951,18 +929,6 @@ http://main.kraps.pw:80/346091887/783902286/1110991.ts
 http://main.kraps.pw:80/346091887/783902286/1110992.ts
 #EXTINF:-1 tvg-id="" tvg-name="Redbull TV HD" tvg-logo="http://canais.is/imgs/redbull-tv.png" group-title="Canais | PPV Esportes",Redbull TV HD
 http://main.kraps.pw:80/346091887/783902286/142432.ts
-#EXTINF:-1 tvg-id="" tvg-name="RunTime Ação" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Canais | RunTime",RunTime Ação
-http://main.kraps.pw:80/346091887/783902286/391896.ts
-#EXTINF:-1 tvg-id="" tvg-name="RunTime Comédia" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Canais | RunTime",RunTime Comédia
-http://main.kraps.pw:80/346091887/783902286/391899.ts
-#EXTINF:-1 tvg-id="" tvg-name="RunTime Crime" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Canais | RunTime",RunTime Crime
-http://main.kraps.pw:80/346091887/783902286/391897.ts
-#EXTINF:-1 tvg-id="" tvg-name="RunTime Familia" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Canais | RunTime",RunTime Familia
-http://main.kraps.pw:80/346091887/783902286/391882.ts
-#EXTINF:-1 tvg-id="" tvg-name="RunTime Romance" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Canais | RunTime",RunTime Romance
-http://main.kraps.pw:80/346091887/783902286/391900.ts
-#EXTINF:-1 tvg-id="" tvg-name="RunTime Suspense e Terror" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Canais | RunTime",RunTime Suspense e Terror
-http://main.kraps.pw:80/346091887/783902286/391898.ts
 #EXTINF:-1 tvg-id="Sabor & Arte" tvg-name="Sabor e Arte HD" tvg-logo="http://yan.boatv.at/imgs/saborearte-channel.png" group-title="Canais | Variedades",Sabor e Arte HD
 http://main.kraps.pw:80/346091887/783902286/1122783.ts
 #EXTINF:-1 tvg-id="Sabor & Arte" tvg-name="Sabor&Arte FHD" tvg-logo="http://canais.is/imgs/saborearte-channel.png" group-title="Canais | Variedades",Sabor&Arte FHD
