@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Estudo" tvg-name="01-Estudo" tvg-logo="" group-title="Canais | Estudo",01-Estudo
+#EXTINF:-1 group-title="Canais | Estudo",01-Estudo
 https://www.googleapis.com/drive/v3/files/1SfSF4rlnMq2DkecptVGpWWoUPvaQ5eXh?alt=media&key=AIzaSyAEc8rACsKgkatu6m_mE9jpCg_TQ-G9nb4
-#EXTINF:-1 tvg-id="Estudo" tvg-name="02-Estudo" tvg-logo="" group-title="Canais | Estudo",02-Estudo
+#EXTINF:-1 group-title="Canais | Estudo",02-Estudo
 https://drive.google.com/file/d/1SfSF4rlnMq2DkecptVGpWWoUPvaQ5eXh/preview
