@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Estudo" tvg-name="Estudo" tvg-logo="" group-title="Canais | Estudo",Estudo
-https://www.googleapis.com/drive/v3/files/1SfSF4rlnMq2DkecptVGpWWoUPvaQ5eXh?alt=media&key=AIzaSyAEc8rACsKgkatu6m_mE9jpCg_TQ-G9nb4
 #EXTINF:-1 tvg-id="Band HD" tvg-name="01 - Band" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Band_logo_with_wordmark.svg/revision/latest/scale-to-width-down/250?cb=20211031145742" group-title="Canais | Principais",01 - Band
 http://main.kraps.pw:80/346091887/783902286/1112375.ts
 #EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="01 - Band SP FHD" tvg-logo="http://canais.is/imgs/band-channel.png" group-title="Canais | Band",01 - Band SP FHD
